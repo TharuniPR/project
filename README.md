@@ -59,7 +59,7 @@
         <li><a href="#about">About Me</a></li>
     </ul>
     <img src="C:\Users\navya\OneDrive\Pictures\pic.jpg" alt="Image">
-    <h1 style="text-align:center;color:rgb(255, 20, 20)">kallam Navya Reddy</h1>
+    <h1 style="text-align:center;color:rgb(255, 20, 20)">tharuni priya</h1>
     <h1 style="text-align:center;color:rgb(255,20,20)">Student,Developer</h1>
     <div class="card" style="margin-left:600px;background-color:aliceblue" >
         <h1 style="text-align: center;color:green;font-size: 30px;">Visit My </h1>
