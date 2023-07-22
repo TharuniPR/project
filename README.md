@@ -58,7 +58,7 @@
         <li><a href="#contact">Contact </a></li>
         <li><a href="#about">About Me</a></li>
     </ul>
-    <img src="C:\Users\navya\OneDrive\Pictures\pic.jpg" alt="Image">
+    <img src=""E:\project\tharuni priya.jpeg"" alt="Image">
     <h1 style="text-align:center;color:rgb(255, 20, 20)">tharuni priya</h1>
     <h1 style="text-align:center;color:rgb(255,20,20)">Student,Developer</h1>
     <div class="card" style="margin-left:600px;background-color:aliceblue" >
